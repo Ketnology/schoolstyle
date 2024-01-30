@@ -1,5 +1,5 @@
-import Dashboard from "../Pages/Dashboard";
+// import Dashboard from "../Pages/Dashboard";
 
 export const routes = [
-  { path: `/`, Component: <Dashboard /> },
+  // { path: `/`, Component: <Dashboard /> },
 ];
